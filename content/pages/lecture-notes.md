@@ -3,6 +3,8 @@ content_type: page
 description: This general lecture note discusses several of the issues relevant to
   the course in a brief outline format, giving a framework for topics discussed during
   the semester.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
